@@ -1006,6 +1006,12 @@ var respecConfig =
       ],
       date: "2021-08-13",
       status: "Published"
+    },
+    "EUSD":
+    {
+      title: "A European strategy for data  ",
+      href: "https://digital-strategy.ec.europa.eu/en/policies/strategy-data",
+      publisher: "European Commission"
     }
   },
   shortName: "VerkenningDataspaces",
