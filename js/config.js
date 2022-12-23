@@ -1012,6 +1012,51 @@ var respecConfig =
       title: "A European strategy for data  ",
       href: "https://digital-strategy.ec.europa.eu/en/policies/strategy-data",
       publisher: "European Commission"
+    },
+    "BZK-IDS":
+    {
+      title: "NL DIGITAAL: Interbestuurlijke Datastrategie Nederland. Verantwoord gebruik van data voor maatschappelijke opgaven ",
+      href: "://www.rijksoverheid.nl/documenten/rapporten/2021/10/31/nl-digitaal-interbestuurlijke-datastrategie-nederland ",
+      publisher: "Ministerie van Economische zaken en Koninkrijksrelaties"
+    },
+    "BZK-GeoL":
+    {
+      title: "etherlands geolocation economy and market economy impact",
+      href: "https://www.geonovum.nl/uploads/documents/Netherlands%20Geolocation%20Economy%20Report.pdf",
+      publisher: "Ministerie van Economische zaken en Koninkrijksrelaties, Geonovum, Geospatial Media and Communications."
+    },
+    "BZK-ZoNL":
+    {
+      title: "Zicht op Nederland. Naar een  gezamenlijk geo-datafundament voor het bouwen aan onze leefomgeving",
+      publisher: "Ministerie van Economische zaken en Koninkrijksrelaties"
+    },
+    "DSC-DSC":
+    {
+      title: "Data Sharing Canvas - A stepping stone towards cross-domain data sharing at scale",
+      href: "https://datasharingcoalition.eu/app/uploads/2021/04/data-sharing-canvas-30-04-2021.pdf",
+      publisher: "Data Sharing Coalition"
+    },
+    "DSC-PP":
+    {
+      title: "Position paper “Analysis of the next steps of the DSC to optimise its efforts",
+      publisher: "Data Sharing Coalition",
+      date: "2021-07-01"
+    },
+    "DSG-UCBP":
+    {
+      title: "Blueprint v1.0 Designing your data sharing use case",
+      href: "https://datasharingcoalition.eu/app/uploads/2021/08/210823-position-paper-dsc.pdf"
+    },
+    "DSG-UCIG":
+    {
+      title: "Use Case Implementation Guide (UCIG)",
+      href: "https://datasharingcoalition.eu/app/uploads/2022/03/data-sharing-coalition-use-case-implementation-guide-ucig.pdf"
+    },
+    "DSC-UCPB":
+    {
+      title: "Use case playbook - Enabling anyone to kickstart a data sharing use case by providing a step-by-step approach",
+      href: "data-sharing-coalition-use-case-playbook.pdf (datasharingcoalition.eu)",
+      date: "2021-04-01"
     }
   },
   shortName: "VerkenningDataspaces",
