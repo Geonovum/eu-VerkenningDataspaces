@@ -1045,7 +1045,8 @@ var respecConfig =
     "DSG-UCBP":
     {
       title: "Blueprint v1.0 Designing your data sharing use case",
-      href: "https://datasharingcoalition.eu/app/uploads/2021/08/210823-position-paper-dsc.pdf"
+      href: "https://datasharingcoalition.eu/app/uploads/2021/08/210823-position-paper-dsc.pdf",
+      publisher: "Data Sharing Coalition"
     },
     "DSG-UCIG":
     {
@@ -1116,6 +1117,7 @@ var respecConfig =
     "GX-FC":
     {
       title: "Gaia-X Federated Catalogue",
+      href: "https://www.gxfs.eu/core-catalogue-features/",
       publisher: "Gaia-X"
     },
     "ISGOV":
@@ -1172,6 +1174,7 @@ var respecConfig =
     "IDS-PPGXIDS":
     {
       title: "Gaia-X and IDS",
+      href: "https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Position-Paper-GAIA-X-and-IDS.pdf",
       publisher: "International Data Spaces Association (IDSA)"
     },
     "IDS-PPRB":
@@ -1221,6 +1224,7 @@ var respecConfig =
     "IDS-RAM4":
     {
       title: "IDS Reference Architecture Model (Version 4.0)",
+      href: "https://docs.internationaldataspaces.org/ids-ram-4/",
       authors: [
         "Otto B.",
         "Steinbuss S.",
@@ -1228,6 +1232,19 @@ var respecConfig =
         "Lohmann S. et al."
       ],
       publisher: "International Data Spaces Association (IDSA)"
+    },
+    "GX-TF":
+    {
+      title: "Gaia-X Trust framework",
+      href: "https://Gaia-X.eu/wp-content/uploads/2022/05/Gaia-X-Trust-Framework-22.04.pdf ",
+      publisher: "Gaia-X",
+      date: "2022-04-01"
+    },
+    "ISGOVF":
+    {
+      title: "iSHARE Governance Framework",
+      href: "https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70222099/Governance+framework ",
+      publisher: "iSHARE Foundation"
     }
   },
   shortName: "VerkenningDataspaces",
