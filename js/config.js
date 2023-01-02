@@ -1021,9 +1021,9 @@ var respecConfig =
     },
     "BZK-GeoL":
     {
-      title: "etherlands geolocation economy and market economy impact",
+      title: "Netherlands geolocation economy and market economy impact",
       href: "https://www.geonovum.nl/uploads/documents/Netherlands%20Geolocation%20Economy%20Report.pdf",
-      publisher: "Ministerie van Economische zaken en Koninkrijksrelaties, Geonovum, Geospatial Media and Communications."
+      publisher: "Ministerie van Economische zaken en Koninkrijksrelaties, Geonovum, Geospatial Media and Communications"
     },
     "BZK-ZoNL":
     {
@@ -1038,11 +1038,13 @@ var respecConfig =
     },
     "DSC-PP":
     {
-      title: "Position paper 'Analysis of the next steps of the DSC to optimise its efforts'",
+      title: "Analysis of the next steps of the DSC to optimise its efforts",
+      href: "https://datasharingcoalition.eu/app/uploads/2021/08/210823-position-paper-dsc.pdf",
       publisher: "Data Sharing Coalition",
-      date: "2021-07-01"
+      date: "2021-07-01",
+      status: "Position paper"
     },
-    "DSG-UCBP":
+    "DSC-UCBP":
     {
       title: "Blueprint v1.0 Designing your data sharing use case",
       href: "https://datasharingcoalition.eu/app/uploads/2021/06/210520d-blueprint-v10.pdf",
