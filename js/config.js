@@ -1045,10 +1045,10 @@ var respecConfig =
     "DSG-UCBP":
     {
       title: "Blueprint v1.0 Designing your data sharing use case",
-      href: "https://datasharingcoalition.eu/app/uploads/2021/08/210823-position-paper-dsc.pdf",
+      href: "https://datasharingcoalition.eu/app/uploads/2021/06/210520d-blueprint-v10.pdf",
       publisher: "Data Sharing Coalition"
     },
-    "DSG-UCIG":
+    "DSC-UCIG":
     {
       title: "Use Case Implementation Guide (UCIG)",
       href: "https://datasharingcoalition.eu/app/uploads/2022/03/data-sharing-coalition-use-case-implementation-guide-ucig.pdf",
@@ -1180,6 +1180,7 @@ var respecConfig =
     "IDS-PPRB":
     {
       title: "IDSA Rule book",
+      href: "https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-White-Paper-IDSA-Rule-Book.pdf",
       publisher: "International Data Spaces Association (IDSA)",
       date: "2020-12-01"
     },
