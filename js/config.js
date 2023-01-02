@@ -4,7 +4,7 @@ var respecConfig =
   specStatus: "GN-WV",
   specType: "AL",
   license: "cc-by-nd",
-  publishDate: "2022-12-23",
+  publishDate: "2023-01-02",
   authors: [
     {
       name: "Michel Grothe",
@@ -1038,7 +1038,7 @@ var respecConfig =
     },
     "DSC-PP":
     {
-      title: "Position paper “Analysis of the next steps of the DSC to optimise its efforts",
+      title: "Position paper 'Analysis of the next steps of the DSC to optimise its efforts'",
       publisher: "Data Sharing Coalition",
       date: "2021-07-01"
     },
@@ -1050,13 +1050,184 @@ var respecConfig =
     "DSG-UCIG":
     {
       title: "Use Case Implementation Guide (UCIG)",
-      href: "https://datasharingcoalition.eu/app/uploads/2022/03/data-sharing-coalition-use-case-implementation-guide-ucig.pdf"
+      href: "https://datasharingcoalition.eu/app/uploads/2022/03/data-sharing-coalition-use-case-implementation-guide-ucig.pdf",
+      publisher: "Data Sharing Coalition",
+      status: "Version 1.0"
     },
     "DSC-UCPB":
     {
       title: "Use case playbook - Enabling anyone to kickstart a data sharing use case by providing a step-by-step approach",
-      href: "data-sharing-coalition-use-case-playbook.pdf (datasharingcoalition.eu)",
+      href: "https://datasharingcoalition.eu/app/uploads/2021/04/use-case-playbook.pdf",
+      publisher: "Data Sharing Coalition",
       date: "2021-04-01"
+    },
+    "GeoInfo":
+    {
+      title: "Doorontwikkeling in samenhang – DISGEO",
+      href: "https://geoinformatienederland.nl/tijdschriften/geo-info-2022-3/",
+      authors: [
+        "Ruud van Rossem"
+      ]
+    },
+    "Geonovum":
+    {
+      title: "Geonovum Rapport  - Verkenning Publiek Gebruik Data van Derden",
+      href: "https://www.geonovum.nl/uploads/documents/Rapportage%20%27Verkenning%20Publiek%20Gebruik%20Data%20van%20Derden%27%20%28eindversie%29_0.pdf ",
+      authors: [
+        "Marc de Vries en Suzanne van Poelgeest"
+      ],
+      date: "2021-06-01"
+    },
+    "GW":
+    {
+      title: "Geospatial knowledge infrastructure readiness index and value proposition in world economy, society, and environment",
+      href: "https://www.geospatialworld.net/consulting/gki-phase-2/report.html",
+      publisher: "Geospatial World"
+    },
+    "GX-AD":
+    {
+      title: "Gaia-x - Architecture Document",
+      href: "https://gaia-x.eu/wp-content/uploads/2022/06/Gaia-x-Architecture-Document-22.04-Release.pdf ",
+      publisher: "Gaia-X"
+    },
+    "GX-PRD":
+    {
+      title: "Gaia-X Policy Rules",
+      publisher: "Gaia-X"
+    },
+    "GX-LF":
+    {
+      title: "Gaia-X Labelling Framework",
+      href: "https://Gaia-X.eu/wp-content/uploads/files/2021-11/Gaia-X%20Labelling%20Framework_0.pdf",
+      publisher: "Gaia-X"
+    },
+    "GX-FSS":
+    {
+      title: "Gaia-X Federation Services",
+      href: "https://www.gxfs.eu/specifications/",
+      publisher: "Gaia-X"
+    },
+    "GX-LCC":
+    {
+      title: "Gaia-X Labelling Criteria Catalogue",
+      href: "https://gaia-x.eu/wp-content/uploads/2022/05/Gaia-X-labelling-criteria-v22.04_Final.pdf",
+      publisher: "Gaia-X"
+    },
+    "GX-FC":
+    {
+      title: "Gaia-X Federated Catalogue",
+      publisher: "Gaia-X"
+    },
+    "ISGOV":
+    {
+      title: "iSHARE Trust & Foundation Governance",
+      href: "https://ishare.eu/ishare/the-foundation/governance/ ",
+      publisher: "iSHARE"
+    },
+    "OPENDEI-DPR":
+    {
+      title: "OPENDEI Design Principles for Data Spaces – Position Paper",
+      href: "https://design-principles-for-data-spaces.org/"
+    },
+    "TNO":
+    {
+      title: "iSHARE as generic trust framework capability",
+      href: "https://topsectorlogistiek.nl/wp-content/uploads/2022/07/TNO-2022-R11094-Report-iSHARE-as-generic-capability-1.pdf ",
+      authors: [
+        "H. Bastiaans"
+      ],
+      publisher: "TNO"
+    },
+    "IDS-CH":
+    {
+      title: "IDS Specification: Clearing House",
+      href: "https://doi.org/10.5281/zenodo.5675765",
+      authors: [
+        "Steinbuss S.",
+        "Bader S.",
+        "et al. "
+      ],
+      publisher: "International Data Spaces Association",
+      date: "2020-04-01"
+    },
+    "IDS-G":
+    {
+      title: "IDS-G on GitHub",
+      href: "https://github.com/International-Data-Spaces-Association/IDS-G",
+      publisher: "International Data Spaces Association (IDSA)"
+    },
+    "IDS-MDB":
+    {
+      title: "Specification: IDS metadata broker",
+      href: "https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-White-Paper-Specification-IDS-Meta-Data-Broker.pdf ",
+      publisher: "International Data Spaces Association (IDSA)"
+    },
+    "IDS-PPBM":
+    {
+      title: "New Business Models for Data Spaces Grounded in Data Sovereignty",
+      href: "https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-New-Business-Models-sneak-preview-version.pdf ",
+      publisher: "International Data Spaces Association (IDSA)",
+      date: "2021-04-01"
+    },
+    "IDS-PPGXIDS":
+    {
+      title: "Gaia-X and IDS",
+      publisher: "International Data Spaces Association (IDSA)"
+    },
+    "IDS-PPRB":
+    {
+      title: "IDSA Rule book",
+      publisher: "International Data Spaces Association (IDSA)",
+      date: "2020-12-01"
+    },
+    "IDS-PPUC":
+    {
+      title: "Usage Control in the International Data Spaces",
+      href: "URL: https://doi.org/10.5281/zenodo.5675884",
+      authors: [
+        "Steinbuss S. et al. "
+      ],
+      publisher: "International Data Spaces Association (IDSA)"
+    },
+    "IDS-PPEUDS":
+    {
+      title: "Implementing the European Data Strategy",
+      href: "https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-Implementing-European-Data-Strategy-Role-of-IDS1.pdf",
+      publisher: "International Data Spaces Association (IDSA)"
+    },
+    "IDS-PPCE":
+    {
+      title: "IDS Certification explained",
+      href: "https://doi.org/10.5281/zenodo.5675945 ",
+      authors: [
+        "Steinbuss S.",
+        "Menz N.",
+        "Resetko A.",
+        "Winkel J."
+      ]
+    },
+    "IDS-RAM3":
+    {
+      title: "IDS Reference Architecture Model (Version 3.0)",
+      href: "https://www.internationaldataspaces.org/wp-content/uploads/2019/03/IDS-Reference-Architecture-Model-3.0.pdf",
+      authors: [
+        "Otto B.",
+        "Steinbuss S.",
+        "Teuscher A.",
+        "Lohmann S. et al."
+      ],
+      publisher: "International Data Spaces Association (IDSA)"
+    },
+    "IDS-RAM4":
+    {
+      title: "IDS Reference Architecture Model (Version 4.0)",
+      authors: [
+        "Otto B.",
+        "Steinbuss S.",
+        "Teuscher A.",
+        "Lohmann S. et al."
+      ],
+      publisher: "International Data Spaces Association (IDSA)"
     }
   },
   shortName: "VerkenningDataspaces",
@@ -1064,5 +1235,5 @@ var respecConfig =
   github: "https://github.com/Geonovum/wp-VerkenningDataspaces/",
   issueBase: "https://github.com/Geonovum/wp-VerkenningDataspaces/issues/",
   edDraftURI: "https://Geonovum.github.io/wp-VerkenningDataspaces/",
-  generatedSubtitle: "Werkversie 23 december 2022"
+  generatedSubtitle: "Werkversie 2 januari 2023"
 }
