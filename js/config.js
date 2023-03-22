@@ -1202,8 +1202,8 @@ var respecConfig =
       date: "",
       status: ""
     },
-    "GX-AD": {
-      title: "Gaia-x - Architecture Document",
+    "Gaia-X-ARCH": {
+      title: "Gaia-X - Architecture Document - Version 22.04",
       href: "https://gaia-x.eu/wp-content/uploads/2022/06/Gaia-x-Architecture-Document-22.04-Release.pdf ",
       authors: "",
       publisher: "Gaia-X",
@@ -1405,7 +1405,7 @@ var respecConfig =
       date: "",
       status: ""
     },
-    "GX-TF": {
+    "Gaia-X-TF": {
       title: "Gaia-X Trust framework",
       href: "https://Gaia-X.eu/wp-content/uploads/2022/05/Gaia-X-Trust-Framework-22.04.pdf ",
       authors: "",
@@ -1456,6 +1456,44 @@ var respecConfig =
     "IDS-IM": {
       title: "IDS Informatiionmodel Version 4.1.0.",
       href: "https://w3id.org/idsa/core-410",
+      authors: "",
+      publisher: "",
+      editors: "",
+      date: "",
+      status: ""
+    },
+    "[DSBA] ": {
+      title: "DSBA ",
+      href: "https://data-spaces-business-alliance.eu/",
+      authors: "",
+      publisher: "Data Space Business Alliance (DSBA)",
+      editors: "",
+      date: "2022-09-26",
+      status: ""
+    },
+    "DSCC-G": {
+      title: "DSCC Glossary Version 1.0",
+      href: "https://dssc.eu/wp-content/uploads/2023/03/DSSC-Data-Spaces-Glossary-v1.0.pdf",
+      authors: [
+        "Data Spaces Support Centre"
+      ],
+      publisher: "",
+      editors: "",
+      date: "2023-03-01",
+      status: ""
+    },
+    "Gaia-X-G": {
+      title: "Gaia-X",
+      href: "Gaia-X specifications on Gitlab",
+      authors: "",
+      publisher: "",
+      editors: "",
+      date: "",
+      status: ""
+    },
+    "OPENDEI-ARCH": {
+      title: "OPENDEI Aligning Reference Architectures, Open Platforms and Large-Scale Pilots in Digitising European Industry",
+      href: "https://www.opendei.eu/",
       authors: "",
       publisher: "",
       editors: "",
