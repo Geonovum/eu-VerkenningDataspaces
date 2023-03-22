@@ -2,12 +2,20 @@ var respecConfig =
 {
   pubDomain: "wp",
   specStatus: "GN-WV",
-  specType: "HR",
+  specType: "AL",
   license: "cc-by-nd",
-  publishDate: "2023-03-21",
-  previousPublishDate: "2023-01-02",
-  previousMaturity: "geen",
-  content: "",
+  publishDate: "2023-03-22",
+  content: {
+    "section_000": "",
+    "section_001": "",
+    "section_002": "",
+    "section_003": "",
+    "section_004": "",
+    "section_005": "",
+    "section_006": "",
+    "section_007": "",
+    "section_008": ""
+  },
   authors: [
     {
       name: "Michel Grothe",
@@ -1203,7 +1211,7 @@ var respecConfig =
       date: "",
       status: ""
     },
-    "GX-PRD": {
+    "Gaia-X-PRD": {
       title: "Gaia-X Policy Rules",
       href: "",
       authors: "",
@@ -1221,7 +1229,7 @@ var respecConfig =
       date: "",
       status: ""
     },
-    "GX-FSS": {
+    "Gaia-X-FSS": {
       title: "Gaia-X Federation Services",
       href: "https://www.gxfs.eu/specifications/",
       authors: "",
@@ -1230,7 +1238,7 @@ var respecConfig =
       date: "",
       status: ""
     },
-    "GX-LCC": {
+    "Gaia-X-LCC": {
       title: "Gaia-X Labelling Criteria Catalogue",
       href: "https://gaia-x.eu/wp-content/uploads/2022/05/Gaia-X-labelling-criteria-v22.04_Final.pdf",
       authors: "",
@@ -1239,7 +1247,7 @@ var respecConfig =
       date: "",
       status: ""
     },
-    "GX-FC": {
+    "Gaia-X-FC": {
       title: "Gaia-X Federated Catalogue",
       href: "https://www.gxfs.eu/core-catalogue-features/",
       authors: "",
@@ -1248,7 +1256,7 @@ var respecConfig =
       date: "",
       status: ""
     },
-    "ISGOV": {
+    "iSHARE-GOV": {
       title: "iSHARE Trust & Foundation Governance",
       href: "https://ishare.eu/ishare/the-foundation/governance/ ",
       authors: "",
@@ -1260,14 +1268,11 @@ var respecConfig =
     "OPENDEI-DPR": {
       title: "OPENDEI Design Principles for Data Spaces – Position Paper",
       href: "https://design-principles-for-data-spaces.org/",
-      authors: [
-        "Nagel L.",
-        "Lycklama D. "
-      ],
+      authors: "",
       publisher: "",
       editors: "",
-      date: "2021-01-01",
-      status: "Version 1.0"
+      date: "",
+      status: ""
     },
     "TNO": {
       title: "iSHARE as generic trust framework capability",
@@ -1427,79 +1432,34 @@ var respecConfig =
       date: "",
       status: ""
     },
-    "DSCC-G": {
-      title: "DSCC Glossary",
-      href: "URL: https://dssc.eu/wp-content/uploads/2023/03/DSSC-Data-Spaces-Glossary-v1.0.pdf",
-      authors: [
-        "Data Spaces Support Centre"
-      ],
-      publisher: "Fraunhofer",
-      editors: "",
-      date: "2023-03-01",
-      status: ""
-    },
-    "JRC126319 ": {
-      title: "INSPIRE – A Public Sector Contribution to the European Green Deal Data Space. A vision for the technological evolution of Europe’s Spatial Data Infrastructures for 2030",
-      href: "doi:10.2760/8563",
-      authors: [
-        "Kotsev A.",
-        "Minghini M.",
-        "Cetl V.",
-        "Penninga F.",
-        "Robbrecht J.",
-        "Lutz M."
-      ],
-      publisher: "Publications Office of the European Union, Luxembourg",
+    "iSHARE-S": {
+      title: "iSHARE Scheme",
+      href: "https://ishare.eu/about-ishare/scheme/Ver",
+      authors: "",
+      publisher: "iSHARE Foundation",
       editors: "",
       date: "",
       status: ""
     },
-    "JRC126750": {
-      title: "Evolution of the access to spatial data for environmental purposes",
-      href: "doi:10.2760/723430",
+    "IDS-DC": {
+      title: "IDS Data connectors report",
+      href: "tps://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Data-Connector-Report-5_March-2023.pdf",
       authors: [
-        "Vancauwenberghe",
-        "G.",
-        "Hernandez Quiros",
-        "L."
+        "Giulia Giussani",
+        "Sebastian Steinbuss"
       ],
-      publisher: "Publications Office of the European Union, Luxembourg",
+      publisher: "International Data Spaces Association",
       editors: "",
-      date: "2022-01-01",
+      date: "",
       status: ""
     },
-    "OPENDEI-ARCH": {
-      title: "Aligning Reference Architectures, Open Platforms and Large-Scale Pilots in Digitising European Industry",
-      href: "https://www.opendei.eu/ ",
+    "IDS-IM": {
+      title: "IDS Informatiionmodel Version 4.1.0.",
+      href: "https://w3id.org/idsa/core-410",
       authors: "",
       publisher: "",
       editors: "",
-      date: "2021-01-01",
-      status: ""
-    },
-    "Scerri": {
-      title: "Common European Data Spaces: Challenges and Opportunities",
-      href: "https://doi.org/10.1007/978-3-030-98636-0_16",
-      authors: [
-        "Scerri",
-        "S.",
-        "Tuikka",
-        "T.",
-        "de Vallejo",
-        "I.L.",
-        "Curry",
-        "E."
-      ],
-      publisher: "Springer ",
-      editors: [
-        "Curry",
-        "E.",
-        "Scerri",
-        "S.",
-        "Tuikka",
-        "T."
-      ],
-      date: "2022-01-01",
+      date: "",
       status: ""
     }
   },
@@ -1508,5 +1468,5 @@ var respecConfig =
   github: "https://github.com/Geonovum/wp-VerkenningDataspaces/",
   issueBase: "https://github.com/Geonovum/wp-VerkenningDataspaces/issues/",
   edDraftURI: "https://Geonovum.github.io/wp-VerkenningDataspaces/",
-  generatedSubtitle: "Werkversie 21 maart 2023"
+  generatedSubtitle: "Werkversie 22 maart 2023"
 }
