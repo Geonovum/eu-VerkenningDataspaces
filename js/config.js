@@ -1462,8 +1462,8 @@ var respecConfig =
       date: "",
       status: ""
     },
-    "[DSBA] ": {
-      title: "DSBA ",
+    "DSBA ": {
+      title: "DSBA Technical Convergence Discussion Document -Version 1.0.1",
       href: "https://data-spaces-business-alliance.eu/",
       authors: "",
       publisher: "Data Space Business Alliance (DSBA)",
