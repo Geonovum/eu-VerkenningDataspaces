@@ -4,7 +4,7 @@ var respecConfig =
   specStatus: "GN-WV",
   specType: "AL",
   license: "cc-by-nd",
-  publishDate: "2023-03-22",
+  publishDate: "2023-03-23",
   content: {
     "section_000": "",
     "section_001": "",
@@ -1462,8 +1462,8 @@ var respecConfig =
       date: "",
       status: ""
     },
-    "DSBA ": {
-      title: "DSBA Technical Convergence Discussion Document -Version 1.0.1",
+    "DSBA": {
+      title: "DSBA Technical Convergence Discussion Document - Version 1.0.1",
       href: "https://data-spaces-business-alliance.eu/",
       authors: "",
       publisher: "Data Space Business Alliance (DSBA)",
@@ -1499,6 +1499,22 @@ var respecConfig =
       editors: "",
       date: "",
       status: ""
+    },
+    "JRC126319": {
+      title: "NSPIRE – A Public Sector Contribution to the European Green Deal Data Space. A vision for the technological evolution of Europe’s Spatial Data Infrastructures for 2030",
+      href: "doi:10.2760/8563",
+      authors: [
+        "Kotsev A.",
+        "Minghini M.",
+        "Cetl V.",
+        "Penninga F.",
+        "Robbrecht J.",
+        "Lutz M."
+      ],
+      publisher: "Publications Office of the European Union, Luxembourg",
+      editors: "",
+      date: "2021-01-01",
+      status: ""
     }
   },
   shortName: "VerkenningDataspaces",
@@ -1506,5 +1522,5 @@ var respecConfig =
   github: "https://github.com/Geonovum/wp-VerkenningDataspaces/",
   issueBase: "https://github.com/Geonovum/wp-VerkenningDataspaces/issues/",
   edDraftURI: "https://Geonovum.github.io/wp-VerkenningDataspaces/",
-  generatedSubtitle: "Werkversie 22 maart 2023"
+  generatedSubtitle: "Werkversie 23 maart 2023"
 }
