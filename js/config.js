@@ -4,7 +4,7 @@ var respecConfig =
   specStatus: "GN-WV",
   specType: "AL",
   license: "cc-by-nd",
-  publishDate: "2023-03-23",
+  publishDate: "2023-03-27",
   content: {
     "section_000": "",
     "section_001": "",
@@ -1501,8 +1501,8 @@ var respecConfig =
       status: ""
     },
     "JRC126319": {
-      title: "NSPIRE – A Public Sector Contribution to the European Green Deal Data Space. A vision for the technological evolution of Europe’s Spatial Data Infrastructures for 2030",
-      href: "doi:10.2760/8563",
+      title: "INSPIRE – A Public Sector Contribution to the European Green Deal Data Space. A vision for the technological evolution of Europe’s Spatial Data Infrastructures for 2030",
+      href: "https://publications.jrc.ec.europa.eu/repository/handle/JRC126319",
       authors: [
         "Kotsev A.",
         "Minghini M.",
@@ -1522,5 +1522,5 @@ var respecConfig =
   github: "https://github.com/Geonovum/wp-VerkenningDataspaces/",
   issueBase: "https://github.com/Geonovum/wp-VerkenningDataspaces/issues/",
   edDraftURI: "https://Geonovum.github.io/wp-VerkenningDataspaces/",
-  generatedSubtitle: "Werkversie 23 maart 2023"
+  generatedSubtitle: "Werkversie 27 maart 2023"
 }
