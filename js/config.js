@@ -1320,8 +1320,6 @@ var respecConfig =
   },
   shortName: "VerkenningDataspaces",
   format: "markdown",
-  github: "https://github.com/Geonovum/eu-VerkenningDataspaces/",
-  issueBase: "https://github.com/Geonovum/eu-VerkenningDataspaces/issues/",
   edDraftURI: "https://Geonovum.github.io/eu-VerkenningDataspaces/",
   generatedSubtitle: "Werkversie 28 maart 2023"
 }
