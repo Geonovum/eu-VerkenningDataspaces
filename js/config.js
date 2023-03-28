@@ -1,10 +1,10 @@
 var respecConfig =
 {
-  pubDomain: "wp",
+  pubDomain: "eu",
   specStatus: "GN-WV",
   specType: "AL",
   license: "cc-by-nd",
-  publishDate: "2023-03-27",
+  publishDate: "2023-03-28",
   content: {
     "section_000": "",
     "section_001": "",
@@ -1519,8 +1519,8 @@ var respecConfig =
   },
   shortName: "VerkenningDataspaces",
   format: "markdown",
-  github: "https://github.com/Geonovum/wp-VerkenningDataspaces/",
-  issueBase: "https://github.com/Geonovum/wp-VerkenningDataspaces/issues/",
-  edDraftURI: "https://Geonovum.github.io/wp-VerkenningDataspaces/",
-  generatedSubtitle: "Werkversie 27 maart 2023"
+  github: "https://github.com/Geonovum/eu-VerkenningDataspaces/",
+  issueBase: "https://github.com/Geonovum/eu-VerkenningDataspaces/issues/",
+  edDraftURI: "https://Geonovum.github.io/eu-VerkenningDataspaces/",
+  generatedSubtitle: "Werkversie 28 maart 2023"
 }
