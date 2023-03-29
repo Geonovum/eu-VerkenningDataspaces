@@ -4,7 +4,7 @@ var respecConfig =
   specStatus: "GN-WV",
   specType: "AL",
   license: "cc-by-nd",
-  publishDate: "2023-03-28",
+  publishDate: "2023-03-29",
   authors: [
     {
       name: "Michel Grothe",
@@ -1321,5 +1321,5 @@ var respecConfig =
   shortName: "VerkenningDataspaces",
   format: "markdown",
   edDraftURI: "https://Geonovum.github.io/eu-VerkenningDataspaces/",
-  generatedSubtitle: "Werkversie 28 maart 2023"
+  generatedSubtitle: "Werkversie 29 maart 2023"
 }
