@@ -1,0 +1,64 @@
+[
+  {
+    "url": "http://localhost:8080/snapshot.html",
+    "id": "color-contrast",
+    "impact": "serious",
+    "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.11/color-contrast?application=webdriverjs",
+    "nodes": [
+      {
+        "target": [
+          "#respec-pill"
+        ],
+        "html": "<button id=\"respec-pill\" aria-controls=\"respec-menu\" aria-expanded=\"false\" aria-haspopup=\"true\" aria-label=\"ReSpec Menu\">ReSpec</button>",
+        "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.41 (foreground color: #787878, background color: #ffffff, font size: 10.0pt (13.3333px), font weight: normal). Expected contrast ratio of 4.5:1"
+      }
+    ]
+  },
+  {
+    "url": "http://localhost:8080/snapshot.html",
+    "id": "link-name",
+    "impact": "serious",
+    "description": "Ensure links have discernible text",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.11/link-name?application=webdriverjs",
+    "nodes": [
+      {
+        "target": [
+          "#toc-jump"
+        ],
+        "html": "<a id=\"toc-jump\" href=\"#toc\"><span aria-hidden=\"true\">↑</span> <span>Jump to Table of Contents</span></a>",
+        "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+      },
+      {
+        "target": [
+          "#toc-toggle"
+        ],
+        "html": "<a id=\"toc-toggle\" href=\"#toc\"><span aria-hidden=\"true\">→</span> <span>Pop Out Sidebar</span></a>",
+        "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+      }
+    ]
+  },
+  {
+    "url": "http://localhost:8080/snapshot.html",
+    "id": "target-size",
+    "impact": "serious",
+    "description": "Ensure touch targets have sufficient size and space",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.11/target-size?application=webdriverjs",
+    "nodes": [
+      {
+        "target": [
+          "p[role=\"navigation\"]:nth-child(17) > a[href$=\"#title\"]"
+        ],
+        "html": "<a href=\"#title\">\n  <abbr title=\"Naar begin\">↑</abbr></a>",
+        "failureSummary": "Fix any of the following:\n  Target has insufficient size (10px by 17px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 18.6px instead of at least 24px."
+      },
+      {
+        "target": [
+          "p[role=\"navigation\"]:nth-child(19) > a[href$=\"#title\"]"
+        ],
+        "html": "<a href=\"#title\">\n  <abbr title=\"Naar begin\">↑</abbr></a>",
+        "failureSummary": "Fix any of the following:\n  Target has insufficient size (10px by 17px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 18.6px instead of at least 24px."
+      }
+    ]
+  }
+]
